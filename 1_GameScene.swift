@@ -11,7 +11,8 @@ import GameplayKit
 class GameScene: SKScene {
     
     override func didMove(to view: SKView) {
-        
+        // このシーンが表示されるタイミングで呼び出される
+        // 主に初期化処理に使う
     }
 
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
