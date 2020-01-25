@@ -2,7 +2,7 @@
 //  GameScene.swift
 //  tap tap game - sample 1
 //
-//  YouTube : https://youtube.com/
+//  YouTube : https://youtu.be/vIWswVb6Qe0
 //
 
 import SpriteKit
