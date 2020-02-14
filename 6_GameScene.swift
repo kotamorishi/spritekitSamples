@@ -1,6 +1,6 @@
 //
 //  GameScene.swift
-//  tap tap game - sample 1
+//  tap tap game - sample 
 //
 //  YouTube : https://youtube.com/
 //
